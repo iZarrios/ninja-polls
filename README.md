@@ -1,4 +1,4 @@
-##This is Ninja Polls a poll web application which is based on the svelte crash course made by [Tha Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+## This is Ninja Polls a poll web application which is based on the svelte crash course made by [Tha Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
 
 _Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing._
 
